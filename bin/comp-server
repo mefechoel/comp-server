@@ -1,0 +1,7 @@
+#!/bin/bash
+
+dir=$(pwd)
+
+cd ~/Projects/comp-server
+
+yarn run serve "$@" -b $dir
