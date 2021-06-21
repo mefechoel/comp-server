@@ -24,7 +24,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "cross-env": "^5.2.0",
     "eslint": "^5.11.0",
-    "mocha": "^5.2.0",
+    "mocha": "^9.0.1",
     "nodemon": "^1.18.5"
   }
 }
